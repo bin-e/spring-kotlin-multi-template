@@ -17,8 +17,9 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-    implementation("mysql:mysql-connector-java")
+//     implementation("mysql:mysql-connector-java")
 
+    // test
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
