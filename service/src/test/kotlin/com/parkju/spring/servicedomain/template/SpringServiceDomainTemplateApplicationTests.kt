@@ -3,10 +3,10 @@ package com.parkju.spring.servicedomain.template
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
-@SpringBootTest
+//@SpringBootTest
 class SpringServiceDomainTemplateApplicationTests {
 
-    @Test
+//    @Test
     fun contextLoads() {
     }
 
